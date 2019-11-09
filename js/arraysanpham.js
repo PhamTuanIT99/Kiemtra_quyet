@@ -1,4 +1,3 @@
-
 var listSanPham = [];
 sanpham= {dmsp:"",ttsp:"",name:"",priceold:"",price:"",img:"",};
 var jsonsp = localStorage.getItem("localsanpham");
